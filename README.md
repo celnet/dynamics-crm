@@ -1,2 +1,2 @@
-# dynamics-crm
-Web Resources for Dynamics CRM
+# dynamics-crm-map
+Embed maps in Dynamics CRM record form
